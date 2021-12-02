@@ -9,7 +9,7 @@
 .social{
     position: fixed;
     left: 0;
-    top: 200px;
+    top: 100px;
     z-index: 2000;
 
 }
@@ -22,7 +22,7 @@
     display: inline-block;
     color: #fff;
     background: #000;
-    padding: 10px 15px;
+    padding: 10px 10px;
     text-decoration: none;
     -webkit-transition: all 500ms ease;
     -o-transition: all 500ms ease;
