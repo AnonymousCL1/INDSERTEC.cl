@@ -687,3 +687,20 @@ body{
     color: rgb(0, 0, 0);
     text-decoration: none;
 }
+.Correo{
+    color: #000;
+    text-decoration: none;
+}
+.Correo:hover{
+    color: #000;
+    text-decoration: none;
+}
+.Phone2{
+    color: #000;
+    text-decoration: #000;
+}
+.Phone2:hover{
+    color: #000;
+    text-decoration: #000;
+    
+}
